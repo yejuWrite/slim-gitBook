@@ -4,21 +4,17 @@
 
 CLI 깃북
 
-{% tabs %}
-{% tab title="Mac" %}
-
-{% endtab %}
-
-{% tab title="Windows" %}
-
-{% endtab %}
-{% endtabs %}
-
 
 
 
 
 GUI 깃북
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>CLI 깃북</td><td></td></tr><tr><td></td><td>GUI 깃북</td><td></td></tr></tbody></table>
+
+
+<table><thead><tr><th align="center">CLI 깃북</th><th align="center">GUI 깃북</th><th data-hidden></th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td></td></tr><tr><td align="center"></td><td align="center"></td><td></td></tr><tr><td align="center"></td><td align="center"></td><td></td></tr></tbody></table>
+
+
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td></td><td>CLI 깃북</td><td></td></tr><tr><td></td><td>GUI 깃북</td><td></td></tr></tbody></table>
 
