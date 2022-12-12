@@ -16,5 +16,5 @@ GUI 깃북
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td></td><td>CLI 깃북</td><td></td></tr><tr><td></td><td>GUI 깃북</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>CLI 깃북</td><td></td><td><a href="1-1.-cli.md">1-1.-cli.md</a></td></tr><tr><td></td><td>GUI 깃북</td><td></td><td></td></tr></tbody></table>
 
