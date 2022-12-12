@@ -1,8 +1,8 @@
 # Table of contents
 
-* [목차](README.md)
-* [들어가기 전에](undefined-1.md)
-
-## Group 1
-
-* [1. CLI 공통 명령어](group-1/1.-cli.md)
+* [들어가기 전에](README.md)
+* [목차](undefined-1.md)
+* [1. 빠른 시작 가이드](1..md)
+* [2. 깃북이란](2./README.md)
+  * [2-1. 깃북 정의](2./2-1..md)
+  * [2-2. 깃북 용도](2./2-2..md)
