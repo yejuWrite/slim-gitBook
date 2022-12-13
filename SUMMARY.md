@@ -36,7 +36,7 @@
     * [이모티콘](3./3-3./undefined-1.md)
     * [링크](3./3-3./undefined-2.md)
     * [Math & TeX](3./3-3./math-and-tex.md)
-  * [3-4. 마크다운](3./3-4..md)
+  * [3-4. 마크다운](undefined-1/undefined.md)
 * [4. 버전 관리](4..md)
 * [5. 협업하기](5..md)
 * [6. Git 연동하기](6.-git.md)

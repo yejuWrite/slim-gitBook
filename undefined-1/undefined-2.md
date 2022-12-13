@@ -1,6 +1,6 @@
 # 용어 사전
 
-### 인라인 콘텐트(Inline content)
+### 인라인 콘텐츠(Inline contents)
 
 ### 서식(Formatting)
 
