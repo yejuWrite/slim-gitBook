@@ -19,8 +19,6 @@
 ## 부록
 
 * [마크다운](undefined-1/undefined/README.md)
-  * [마크다운 문법](undefined-1/undefined/undefined.md)
-  * [Page 1](undefined-1/undefined/page-1.md)
-  * [Page 2](undefined-1/undefined/page-2.md)
+  * [Gitbook Markdown](undefined-1/undefined/gitbook-markdown.md)
 * [단축키](undefined-1/undefined-1.md)
 * [용어 사전](undefined-1/undefined-2.md)
