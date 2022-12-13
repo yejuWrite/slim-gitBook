@@ -1,8 +1,7 @@
-# 단축키
+# 용어 사전
 
-###
+### 인라인 콘텐트(Inline content)
 
-### 단락(Blocks)
+### 서식(Formatting)
 
-
-
+### 단락(Block)

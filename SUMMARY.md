@@ -9,14 +9,15 @@
   * [2-2. 깃북의 용도](2./2-2..md)
   * [2-3. 인터페이스](2./2-3..md)
 * [3. 편집하기](3./README.md)
-  * [3-1. 서식](3./3-1..md)
+  * [3-1. 서식](3./3-1./README.md)
+    * [마크다운](3./3-1./undefined.md)
   * [3-2. 블록 콘텐츠](3./3-2./README.md)
     * [헤딩](3./3-2./undefined.md)
     * [단락](3./3-2./undefined-1.md)
     * [카드](3./3-2./undefined-2.md)
-    * [순서가 있는 리스트](3./3-2./undefined-3.md)
-    * [순서가 없는 리스트](3./3-2./undefined-4.md)
-    * [태스크 리스트](3./3-2./undefined-5.md)
+    * [순서가 없는 목록](3./3-2./undefined-3.md)
+    * [순서가 있는 목록](3./3-2./undefined-4.md)
+    * [태스크 목록](3./3-2./undefined-5.md)
     * [힌트](3./3-2./undefined-6.md)
     * [인용](3./3-2./undefined-7.md)
     * [코드 블럭](3./3-2./undefined-8.md)
@@ -42,6 +43,5 @@
 
 ## 부록
 
-* [마크다운](undefined-1/undefined.md)
-* [단축키](undefined-1/undefined-1.md)
-* [용어 사전](undefined-1/undefined-2.md)
+* [단축키](undefined-1/undefined.md)
+* [용어 사전](undefined-1/undefined-1.md)
