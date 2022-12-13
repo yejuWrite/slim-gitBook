@@ -42,7 +42,6 @@
 
 ## 부록
 
-* [마크다운](undefined-1/undefined/README.md)
-  * [Gitbook Markdown](undefined-1/undefined/gitbook-markdown.md)
+* [마크다운](undefined-1/undefined.md)
 * [단축키](undefined-1/undefined-1.md)
 * [용어 사전](undefined-1/undefined-2.md)
