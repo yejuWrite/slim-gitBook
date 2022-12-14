@@ -2,7 +2,7 @@
 
 콘텐츠 블록은 명령 팔레트를 열어 추가할 수 있습니다.
 
-
+<figure><img src="../../.gitbook/assets/block.gif" alt=""><figcaption></figcaption></figure>
 
 콘텐츠 블록의 종류는 다음과 같습니다.
 
