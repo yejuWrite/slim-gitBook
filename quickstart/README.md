@@ -1,7 +1,5 @@
 # 1. 빠른 시작 가이드
 
-
-
 CLI 깃북
 
 
@@ -16,5 +14,5 @@ GUI 깃북
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>CLI 깃북</td><td></td><td><a href="1-2.-cli.md">1-2.-cli.md</a></td></tr><tr><td></td><td>GUI 깃북</td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>CLI 깃북</td><td></td><td><a href="cli.md">cli.md</a></td></tr><tr><td></td><td>GUI 깃북</td><td></td><td></td></tr></tbody></table>
 
