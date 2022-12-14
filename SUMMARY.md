@@ -13,7 +13,7 @@
   * [3-2. 블록](edit/blocks/README.md)
     * [헤딩](edit/blocks/heading.md)
     * [단락](edit/blocks/paragraph.md)
-    * [카드](edit/blocks/undefined.md)
+    * [카드](edit/blocks/cards.md)
     * [순서가 없는 목록](edit/blocks/unordered\_list.md)
     * [순서가 있는 목록](edit/blocks/ordered\_list.md)
     * [태스크 목록](edit/blocks/task\_list.md)
