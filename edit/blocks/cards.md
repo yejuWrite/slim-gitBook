@@ -6,9 +6,13 @@ description: 카드를 사용해 페이지에 시각 효과를 더해보세요.
 
 ## 카드  링크 추가
 
-<figure><img src="../../.gitbook/assets/card link add (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/card link add.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 카드 이미지 삽입
+
+<figure><img src="../../.gitbook/assets/card image add 4 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 #### 카드의 예시
 
