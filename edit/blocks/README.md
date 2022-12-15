@@ -10,7 +10,7 @@
 * [단락](paragraph.md)
 * [카드](cards.md)
 * [순서가 없는 목록](unordered\_list.md)
-* [순서가 있는 목록](ordered\_list.md)
+* [순서가 있는 목록](broken-reference)
 * [태스크 목록](task\_list.md)
 * [힌트](hint.md)
 * [인용](quote.md)
