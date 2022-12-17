@@ -1,10 +1,11 @@
 # Table of contents
 
 * [들어가기 전에](README.md)
-* [1. 깃북이란?](gitbook/README.md)
+* [1. 시작하기](gitbook/README.md)
   * [1-1. 깃북 소개](gitbook/def.md)
   * [1-2. 가입하기](gitbook/interface.md)
   * [1-3. 인터페이스](gitbook/1-3..md)
+  * [1-4. import](gitbook/1-4.-import.md)
 * [2. 편집하기](edit/README.md)
   * [2-1. 서식](edit/formatting.md)
   * [2-2. 블록](edit/blocks/README.md)
@@ -35,7 +36,7 @@
   * [3-4. 마크다운](edit/markdown.md)
 * [3. 버전 관리](version\_manage.md)
 * [4. 협업하기](collaborate.md)
-* [5. Git 연동하기](git\_syn.md)
+* [5. 내보내기](5..md)
 
 ## 부록 <a href="#appendix" id="appendix"></a>
 
